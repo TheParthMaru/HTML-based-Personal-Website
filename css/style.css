@@ -22,3 +22,9 @@ h3 {
 table {
   margin-bottom: 20px;
 }
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
